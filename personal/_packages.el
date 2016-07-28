@@ -1,0 +1,15 @@
+(prelude-require-packages
+ '(bookmark+
+   clojure-mode
+   cider
+   clj-refactor
+   coffee-mode
+   haml-mode
+   idle-highlight-mode
+   paredit
+   rainbow-delimiters
+   rainbow-mode
+   saveplace
+   sass-mode
+   smex
+   yaml-mode))
